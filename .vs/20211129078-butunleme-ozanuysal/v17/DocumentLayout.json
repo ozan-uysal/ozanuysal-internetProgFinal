@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\groupmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\groupmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\sendmessagetogroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\sendmessagetogroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240623102936_changetorecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240623102936_changetorecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240623100851_removegroupidfromapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240623100851_removegroupidfromapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240623095333_addgroupmembership2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240623095333_addgroupmembership2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240623095203_addgroupmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240623095203_addgroupmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240619124533_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240619124533_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240619123753_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240619123753_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\misc\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\misc\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\migrations\\20240619123421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\migrations\\20240619123421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|c:\\users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451DE3C-F6B6-4D4A-8648-3A06D427EC97}|20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal.csproj|solutionrelative:20211129078-butunleme-ozanuysal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMessageToGroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\SendMessageToGroupModel.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\SendMessageToGroupModel.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\SendMessageToGroupModel.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\SendMessageToGroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:34:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:54:21.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupMembership.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\GroupMembership.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\GroupMembership.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\GroupMembership.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\GroupMembership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:40:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\Message.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:00:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:23:18.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:21:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:44:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\UserController.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:05:57.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240623102936_ChangeToRecipient.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623102936_ChangeToRecipient.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240623102936_ChangeToRecipient.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623102936_ChangeToRecipient.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240623102936_ChangeToRecipient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:30:00.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240623100851_RemoveGroupIdFromApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623100851_RemoveGroupIdFromApplicationUser.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240623100851_RemoveGroupIdFromApplicationUser.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623100851_RemoveGroupIdFromApplicationUser.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240623100851_RemoveGroupIdFromApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:09:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240623095203_AddGroupMembership.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623095203_AddGroupMembership.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240623095203_AddGroupMembership.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623095203_AddGroupMembership.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240623095203_AddGroupMembership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:52:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240623095333_AddGroupMembership2.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623095333_AddGroupMembership2.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240623095333_AddGroupMembership2.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240623095333_AddGroupMembership2.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240623095333_AddGroupMembership2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:53:36.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Misc\\MessageHub.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Misc\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Misc\\MessageHub.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Misc\\MessageHub.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:23:46.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240619124533_Mig4.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240619124533_Mig4.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240619124533_Mig4.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240619124533_Mig4.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240619124533_Mig4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:45:40.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:18:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:52:35.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240619123421_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240619123421_InitialCreate.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240619123421_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240619123421_InitialCreate.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240619123421_InitialCreate.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:34:26.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240619123753_Mig2.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240619123753_Mig2.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Migrations\\20240619123753_Mig2.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Migrations\\20240619123753_Mig2.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Migrations\\20240619123753_Mig2.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:37:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Program.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Program.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Program.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:02:05.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:24:07.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\Group.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:00:58.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:52:35.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:52:40.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T11:53:26.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\appsettings.json",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\appsettings.json",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\appsettings.json",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T11:28:39.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "20211129078-butunleme-ozanuysal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\onurd\\source\\repos\\20211129078-butunleme-ozanuysal\\20211129078-butunleme-ozanuysal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "20211129078-butunleme-ozanuysal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:24:09.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
